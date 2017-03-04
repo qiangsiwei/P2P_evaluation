@@ -1,8 +1,8 @@
-# 自贸区P2P借贷平台风险评估
+# P2P借贷平台风险评估
 
 该项目是OMNIRank的后续工作，OMNIRank主页：
 
-https://github.com/qiangsiwei/ppd_model
+https://github.com/wang-haiyang/ppd_model
 
 OMNIRank是一个用于对互联网金融行业各大P2P平台进行风险评估的深度学习模型，是上海交通大学OMNILab的“若愚”团队在魔镜杯数据产品开发大赛中开发的作品。
 
